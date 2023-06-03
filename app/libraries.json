@@ -1,0 +1,30 @@
+[
+  {
+    "artifactId": "rxjava",
+    "excludes": [],
+    "groupId": "io.reactivex.rxjava2",
+    "scope": "compile",
+    "versionName": "2.2.2"
+  },
+  {
+    "artifactId": "rxandroid",
+    "excludes": [],
+    "groupId": "io.reactivex.rxjava2",
+    "scope": "compile",
+    "versionName": "2.0.1"
+  },
+  {
+    "artifactId": "calligraphy",
+    "excludes": [],
+    "groupId": "uk.co.chrisjenx",
+    "scope": "compile",
+    "versionName": "2.0.0"
+  },
+  {
+    "artifactId": "appcompat",
+    "excludes": [],
+    "groupId": "androidx.appcompat",
+    "scope": "compile",
+    "versionName": "1.3.1"
+  }
+]

@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:gravity="center">
+
+<ImageView
+android:text="@string/hello_world"
+android:layout_width="match_parent"
+android:id="@+id/mainIV"
+android:scaleType="fitCenter"
+android:background="@drawable/sp_bg"
+android:layout_height="match_parent" />
+
+</LinearLayout>
